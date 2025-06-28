@@ -15,6 +15,7 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 function initializeMap() {
+    console.log("Initializing map");
     // Initialize the map centered on Arequipa, Peru
     map = L.map('map').setView([-16.4090, -71.5375], 12);
     
