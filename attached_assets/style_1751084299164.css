@@ -1,0 +1,17 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: sans-serif;
+}
+.container {
+  display: flex;
+}
+.sidebar {
+  width: 300px;
+  background: #f0f0f0;
+  padding: 20px;
+}
+.mapa {
+  flex: 1;
+}

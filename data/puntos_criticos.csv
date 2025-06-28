@@ -1,0 +1,16 @@
+nombre,latitud,longitud,tipo,prioridad,poblacion_afectada
+PC_001,-16.35292,-71.581152,deslizamiento,baja,4358
+PC_002,-16.429216,-71.546645,deslizamiento,media,3911
+PC_003,-16.397058,-71.531957,hundimiento,media,3731
+PC_004,-16.393905,-71.573454,contaminacion,media,4584
+PC_005,-16.36713,-71.532796,contaminacion,media,3130
+PC_006,-16.430389,-71.576312,obra,alta,2067
+PC_007,-16.390397,-71.5156,deslizamiento,baja,1193
+PC_008,-16.405933,-71.514187,inundacion,media,1745
+PC_009,-16.352269,-71.531047,hundimiento,media,2407
+PC_010,-16.379371,-71.543949,inundacion,alta,4315
+PC_011,-16.392966,-71.546509,contaminacion,alta,914
+PC_012,-16.425465,-71.511283,hundimiento,media,3430
+PC_013,-16.397812,-71.557274,inundacion,baja,4963
+PC_014,-16.441853,-71.566796,inundacion,media,1059
+PC_015,-16.447373,-71.535824,hundimiento,baja,394
